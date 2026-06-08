@@ -1,0 +1,5 @@
+# ninja log v5
+0	6	0	/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/.cxx/Debug/133ph3n3/armeabi-v7a/CMakeFiles/cmake.verify_globs	7d3f81bc9ccae506
+1	7016	1780940338016060801	CMakeFiles/appmodules.dir/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	4d7ade8612f307d0
+1	7816	1780940338813016874	CMakeFiles/appmodules.dir/OnLoad.cpp.o	222a098e6b99736c
+7816	7912	1780940338934010205	/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/build/intermediates/cxx/Debug/133ph3n3/obj/armeabi-v7a/libappmodules.so	ca43e84639dd28c0
