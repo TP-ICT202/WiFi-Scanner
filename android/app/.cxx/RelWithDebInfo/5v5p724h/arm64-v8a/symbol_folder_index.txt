@@ -1,0 +1,1 @@
+/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/build/intermediates/cxx/RelWithDebInfo/5v5p724h/obj/arm64-v8a

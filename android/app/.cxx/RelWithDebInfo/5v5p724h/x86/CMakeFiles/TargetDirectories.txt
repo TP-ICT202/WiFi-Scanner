@@ -1,0 +1,3 @@
+/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/.cxx/RelWithDebInfo/5v5p724h/x86/CMakeFiles/appmodules.dir
+/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/.cxx/RelWithDebInfo/5v5p724h/x86/CMakeFiles/edit_cache.dir
+/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/.cxx/RelWithDebInfo/5v5p724h/x86/CMakeFiles/rebuild_cache.dir

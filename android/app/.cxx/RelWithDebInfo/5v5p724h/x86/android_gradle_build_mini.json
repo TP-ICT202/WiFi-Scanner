@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "/home/tchinda/Téléchargements/Wifi-Scanner-RN/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/tchinda/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/.cxx/RelWithDebInfo/5v5p724h/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/tchinda/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/.cxx/RelWithDebInfo/5v5p724h/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86",
+      "output": "/home/tchinda/Téléchargements/Wifi-Scanner-RN/android/app/build/intermediates/cxx/RelWithDebInfo/5v5p724h/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/home/tchinda/.gradle/caches/9.3.1/transforms/d9470b438c6b45cbae6011875e025740/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/home/tchinda/.gradle/caches/9.3.1/transforms/3cb8341a1e58ff714138410da6049087/transformed/react-android-0.79.2-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/home/tchinda/.gradle/caches/9.3.1/transforms/3cb8341a1e58ff714138410da6049087/transformed/react-android-0.79.2-release/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  }
+}
